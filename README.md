@@ -41,4 +41,4 @@ Firebase is a Backend-as-a-Service (BaaS) app development platform that provides
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-kyc-system.git
+   git clone https://github.com/gk9516/Standard_charted_hackathon_March_2024
