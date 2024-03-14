@@ -41,4 +41,4 @@ WebRTC (Web Real-Time Communication) is a free, open-source project that provide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-kyc-system.git
+   git clone https://github.com/gk9516/Standard_charted_hackathon_March_2024
