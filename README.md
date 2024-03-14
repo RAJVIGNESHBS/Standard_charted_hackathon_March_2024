@@ -31,11 +31,11 @@ HTML, CSS, and JavaScript are fundamental technologies for building web applicat
 
 CSV (Comma-Separated Values) is a common file format used for storing tabular data...
 
-### WebRTC
+### Firebase
 
-![WebRTC Logo](https://blog.wildix.com/wp-content/uploads/2016/11/webrtc-logo-vert-retro-255x305-1.png)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces (APIs)...
+Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for the static files.
 
 ## Usage
 
